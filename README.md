@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanaspals1106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sanjanaspals1106/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/sanjanaspals1106/LeetCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/sanjanaspals1106/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sanjanaspals1106/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
