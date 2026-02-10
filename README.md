@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sanjanaspals1106/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjanaspals1106/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanaspals1106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/sanjanaspals1106/LeetCode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sanjanaspals1106/LeetCode/tree/master/0283-move-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanaspals1106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
