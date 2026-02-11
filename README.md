@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjanaspals1106/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
