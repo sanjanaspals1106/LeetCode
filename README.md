@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sanjanaspals1106/LeetCode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sanjanaspals1106/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/sanjanaspals1106/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Counting
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanaspals1106/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sanjanaspals1106/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/sanjanaspals1106/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/sanjanaspals1106/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sanjanaspals1106/LeetCode/tree/master/0389-find-the-difference) |
+| [0844-backspace-string-compare](https://github.com/sanjanaspals1106/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjanaspals1106/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/sanjanaspals1106/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sanjanaspals1106/LeetCode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/sanjanaspals1106/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/sanjanaspals1106/LeetCode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/sanjanaspals1106/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/sanjanaspals1106/LeetCode/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
