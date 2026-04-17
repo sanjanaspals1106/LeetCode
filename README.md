@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/sanjanaspals1106/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanaspals1106/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/sanjanaspals1106/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sanjanaspals1106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sanjanaspals1106/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sanjanaspals1106/LeetCode/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/sanjanaspals1106/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/sanjanaspals1106/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sanjanaspals1106/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
