@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sanjanaspals1106/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
@@ -247,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjanaspals1106/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/sanjanaspals1106/LeetCode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sanjanaspals1106/LeetCode/tree/master/0853-car-fleet) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
