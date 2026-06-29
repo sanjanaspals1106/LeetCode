@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanaspals1106/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjanaspals1106/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/sanjanaspals1106/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sanjanaspals1106/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjanaspals1106/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sanjanaspals1106/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanjanaspals1106/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjanaspals1106/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0367-valid-perfect-square](https://github.com/sanjanaspals1106/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
