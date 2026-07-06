@@ -1,11 +1,10 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        unordered_map<int,int> mp;
-        int i=0;
-        for(int j=0; j<nums.size();j++ ){
-            mp[nums[j]]++;
-            if(mp[nums[j]]<=2){
+        if (nums.size()<=2) return nums.size();
+        int i=2;
+        for(int j=2; j<nums.size();j++ ){
+            if(nums[j]!=nums[i-2]){
                 nums[i]=nums[j];
                 i++;
             }
