@@ -1,24 +1,22 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        vector <char> arr;
+        vector<char> letters;
         for(char ch: s){
-            if (isalnum(ch)) {
-                arr.push_back(tolower(ch));
+            if(isalnum(ch)){
+                letters.push_back(tolower(ch));
             }
         }
         int i=0;
-        int j=arr.size()-1;
-        while (i < j) {
-            if (arr[i] != arr[j]) {
+        int j=letters.size()-1;
+        while(i<=j){
+            if (letters[i]==letters[j]){
+                i++;
+                j--;
+            }else{
                 return false;
             }
-            i++;
-            j--;
         }
-
         return true;
-        
-        
     }
 };
