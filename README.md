@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanjanaspals1106/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/sanjanaspals1106/LeetCode/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjanaspals1106/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/sanjanaspals1106/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sanjanaspals1106/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/sanjanaspals1106/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sanjanaspals1106/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/sanjanaspals1106/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sanjanaspals1106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanaspals1106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjanaspals1106/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sanjanaspals1106/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/sanjanaspals1106/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sanjanaspals1106/LeetCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sanjanaspals1106/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
