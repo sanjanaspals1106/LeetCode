@@ -1,11 +1,11 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int i=0, j=0;
+        int i=0;
         int res=0;
         unordered_map<char,int> count;
         int maxFreq=0;
-        for(j=0; j<s.size(); j++){
+        for(int j=0; j<s.size(); j++){
             count[s[j]]++;
             maxFreq = max(maxFreq, count[s[j]]);
             while((j-i+1)-maxFreq>k){
