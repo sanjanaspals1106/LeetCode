@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/sanjanaspals1106/LeetCode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sanjanaspals1106/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/sanjanaspals1106/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sanjanaspals1106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjanaspals1106/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanjanaspals1106/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/sanjanaspals1106/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/sanjanaspals1106/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sanjanaspals1106/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/sanjanaspals1106/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/sanjanaspals1106/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjanaspals1106/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/sanjanaspals1106/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sanjanaspals1106/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
