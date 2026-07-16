@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/sanjanaspals1106/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1854-maximum-population-year](https://github.com/sanjanaspals1106/LeetCode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/sanjanaspals1106/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sanjanaspals1106/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sanjanaspals1106/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/sanjanaspals1106/LeetCode/tree/master/1854-maximum-population-year) |
 | [1991-find-the-middle-index-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 ## Matrix
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sanjanaspals1106/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/sanjanaspals1106/LeetCode/tree/master/1854-maximum-population-year) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjanaspals1106/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
