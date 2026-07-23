@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanjanaspals1106/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjanaspals1106/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/sanjanaspals1106/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/sanjanaspals1106/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/sanjanaspals1106/LeetCode/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sanjanaspals1106/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sanjanaspals1106/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sanjanaspals1106/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/sanjanaspals1106/LeetCode/tree/master/0461-hamming-distance) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/sanjanaspals1106/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sanjanaspals1106/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sanjanaspals1106/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
