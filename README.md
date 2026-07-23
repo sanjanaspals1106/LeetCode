@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/sanjanaspals1106/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sanjanaspals1106/LeetCode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/sanjanaspals1106/LeetCode/tree/master/0461-hamming-distance) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjanaspals1106/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
