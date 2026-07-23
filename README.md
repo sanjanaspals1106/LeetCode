@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanaspals1106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjanaspals1106/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sanjanaspals1106/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/sanjanaspals1106/LeetCode/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 ## Sorting
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/sanjanaspals1106/LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sanjanaspals1106/LeetCode/tree/master/0389-find-the-difference) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjanaspals1106/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
