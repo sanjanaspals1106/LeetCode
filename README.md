@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjanaspals1106/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/sanjanaspals1106/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/sanjanaspals1106/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/sanjanaspals1106/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/sanjanaspals1106/LeetCode/tree/master/0412-fizz-buzz) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0201-bitwise-and-of-numbers-range](https://github.com/sanjanaspals1106/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/sanjanaspals1106/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/sanjanaspals1106/LeetCode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/sanjanaspals1106/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sanjanaspals1106/LeetCode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/sanjanaspals1106/LeetCode/tree/master/0461-hamming-distance) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjanaspals1106/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
