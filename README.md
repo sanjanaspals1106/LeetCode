@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanaspals1106/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjanaspals1106/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/sanjanaspals1106/LeetCode/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sanjanaspals1106/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/sanjanaspals1106/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjanaspals1106/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -341,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sanjanaspals1106/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
