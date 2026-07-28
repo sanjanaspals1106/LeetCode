@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjanaspals1106/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/sanjanaspals1106/LeetCode/tree/master/0853-car-fleet) |
+| [0867-transpose-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sanjanaspals1106/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sanjanaspals1106/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sanjanaspals1106/LeetCode/tree/master/0905-sort-array-by-parity) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/sanjanaspals1106/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/sanjanaspals1106/LeetCode/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sanjanaspals1106/LeetCode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sanjanaspals1106/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/sanjanaspals1106/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Counting
