@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjanaspals1106/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sanjanaspals1106/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/sanjanaspals1106/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sanjanaspals1106/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sanjanaspals1106/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanjanaspals1106/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sanjanaspals1106/LeetCode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjanaspals1106/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/sanjanaspals1106/LeetCode/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/sanjanaspals1106/LeetCode/tree/master/0367-valid-perfect-square) |
