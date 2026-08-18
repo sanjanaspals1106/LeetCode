@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
-        int pathsum=0;
         if(root==nullptr) return false;
         if(root->left==nullptr && root->right==nullptr){
             if(targetSum==root->val){
