@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjanaspals1106/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjanaspals1106/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sanjanaspals1106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/sanjanaspals1106/LeetCode/tree/master/1768-merge-strings-alternately) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjanaspals1106/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sanjanaspals1106/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjanaspals1106/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/sanjanaspals1106/LeetCode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/sanjanaspals1106/LeetCode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjanaspals1106/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
 | ------- |
