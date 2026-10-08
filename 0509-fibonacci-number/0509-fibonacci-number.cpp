@@ -7,10 +7,8 @@ public:
         if(n==1){
             return 1;
         }
-        while(n>=0){
+        
         return fib(n-1)+fib(n-2);
-        n--;
-        }
-        return 0;
+    
     }
 };
