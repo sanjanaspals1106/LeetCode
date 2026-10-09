@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanjanaspals1106/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0845-longest-mountain-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0853-car-fleet](https://github.com/sanjanaspals1106/LeetCode/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/sanjanaspals1106/LeetCode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/sanjanaspals1106/LeetCode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sanjanaspals1106/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/sanjanaspals1106/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjanaspals1106/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sanjanaspals1106/LeetCode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/sanjanaspals1106/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/sanjanaspals1106/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/sanjanaspals1106/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjanaspals1106/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
