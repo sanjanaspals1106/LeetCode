@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanaspals1106/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjanaspals1106/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sanjanaspals1106/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/sanjanaspals1106/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sanjanaspals1106/LeetCode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sanjanaspals1106/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sanjanaspals1106/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sanjanaspals1106/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/sanjanaspals1106/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/sanjanaspals1106/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/sanjanaspals1106/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sanjanaspals1106/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/sanjanaspals1106/LeetCode/tree/master/0881-boats-to-save-people) |
