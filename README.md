@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjanaspals1106/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sanjanaspals1106/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/sanjanaspals1106/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjanaspals1106/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sanjanaspals1106/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanjanaspals1106/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
