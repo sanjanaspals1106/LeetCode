@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/sanjanaspals1106/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sanjanaspals1106/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjanaspals1106/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanjanaspals1106/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sanjanaspals1106/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sanjanaspals1106/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sanjanaspals1106/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sanjanaspals1106/LeetCode/tree/master/1208-get-equal-substrings-within-budget) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjanaspals1106/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/sanjanaspals1106/LeetCode/tree/master/1854-maximum-population-year) |
 | [2351-first-letter-to-appear-twice](https://github.com/sanjanaspals1106/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanjanaspals1106/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
 | ------- |
