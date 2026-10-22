@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sanjanaspals1106/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2469-convert-the-temperature](https://github.com/sanjanaspals1106/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sanjanaspals1106/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sanjanaspals1106/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Prefix Sum
