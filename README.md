@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sanjanaspals1106/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanjanaspals1106/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sanjanaspals1106/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanjanaspals1106/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sanjanaspals1106/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/sanjanaspals1106/LeetCode/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sanjanaspals1106/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sanjanaspals1106/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanjanaspals1106/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/sanjanaspals1106/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjanaspals1106/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjanaspals1106/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjanaspals1106/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sanjanaspals1106/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sanjanaspals1106/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sanjanaspals1106/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/sanjanaspals1106/LeetCode/tree/master/0190-reverse-bits) |
 ## Math
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sanjanaspals1106/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/sanjanaspals1106/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjanaspals1106/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/sanjanaspals1106/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sanjanaspals1106/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/sanjanaspals1106/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sanjanaspals1106/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/sanjanaspals1106/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sanjanaspals1106/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sanjanaspals1106/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/sanjanaspals1106/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -506,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sanjanaspals1106/LeetCode/tree/master/1051-height-checker) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sanjanaspals1106/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
