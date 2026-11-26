@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    TreeNode* build(vector<int> nums, int l, int r){
+    TreeNode* build(vector<int> &nums, int l, int r){
         if(l>r) return NULL;
 
         int mid=l+(r-l)/2;
